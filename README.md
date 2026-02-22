@@ -51,11 +51,6 @@ Visual Studio Code
 
 Moises Ferreira  
 
-GitHub: https://github.com/Mif-code
-
-
-GitHub: https://github.com/Mif-code
-
 Criação de APIs com Flask e FastAPI
 
 Conceitos de banco de dados
